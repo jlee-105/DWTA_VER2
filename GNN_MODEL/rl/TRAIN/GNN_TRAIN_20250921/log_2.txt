@@ -1,0 +1,9 @@
+[2025-09-21 08:30:46] 🚀 GNN REINFORCE Trainer initialized
+[2025-09-21 08:30:46] 📁 Output directory: ./TRAIN/GNN_TRAIN_20250921
+[2025-09-21 08:30:46] 🎯 Multi-scale training: Random 5-7W × 5-7T × 5-7T per epoch
+[2025-09-21 08:30:46] 🧠 Model: EMBEDDING_DIM=128, HEAD_NUM=8
+[2025-09-21 08:30:46] 📚 Training: 300 epochs, 5 episodes/epoch
+[2025-09-21 08:30:46] 🚀 Starting GNN-based DWTA REINFORCE Training...
+[2025-09-21 08:30:47] ⏱️ Target time windows (batch0): start=[2.0, 0.0, 0.0, 2.0, 0.0, 0.0], end=[5.0, 5.0, 5.0, 5.0, 5.0, 5.0]
+[2025-09-21 08:30:51] 🧪 Episode 1/5 | Actor Loss: 0.354275 | Critic Loss: 17.118938
+[2025-09-21 08:30:51] ⏱️ Target time windows (batch0): start=[0.0, 0.0, 0.0, 3.0, 2.0], end=[7.0, 7.0, 7.0, 7.0, 7.0]
